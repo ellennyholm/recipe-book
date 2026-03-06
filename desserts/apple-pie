@@ -9,3 +9,4 @@
 ## Instructions
 
 - Mix
+- Heat
